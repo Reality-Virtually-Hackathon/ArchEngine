@@ -1,0 +1,142 @@
+fileFormatVersion: 2
+guid: 99e7ae52271a6ba449b4dfef3a55263c
+timeCreated: 1507406346
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: '3D View: {3D - User}'
+    100002: Cast-In-Place Stair Stair [5939041]
+    100004: Railing Single Bar Hand Rail -Glass [5939928]
+    100006: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    100008: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    100010: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    100012: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    100014: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    100016: //RootNode
+    100018: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    100020: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    100022: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    100024: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    400000: '3D View: {3D - User}'
+    400002: Cast-In-Place Stair Stair [5939041]
+    400004: Railing Single Bar Hand Rail -Glass [5939928]
+    400006: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    400008: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    400010: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    400012: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    400014: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    400016: //RootNode
+    400018: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    400020: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    400022: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    400024: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    2000000: '3D View: {3D - User}'
+    2300000: Cast-In-Place Stair Stair [5939041]
+    2300002: Railing Single Bar Hand Rail -Glass [5939928]
+    2300004: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    2300006: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    2300008: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    2300010: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    2300012: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    2300014: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    2300016: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    2300018: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    2300020: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    3300000: Cast-In-Place Stair Stair [5939041]
+    3300002: Railing Single Bar Hand Rail -Glass [5939928]
+    3300004: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    3300006: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    3300008: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    3300010: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    3300012: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    3300014: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    3300016: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    3300018: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    3300020: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    4300000: Cast-In-Place Stair Stair [5939041]
+    4300002: Railing Single Bar Hand Rail -Glass [5939928]
+    4300004: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    4300006: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    4300008: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    4300010: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300012: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300014: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    4300016: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    4300018: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    4300020: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
