@@ -514,11 +514,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: ArchEngine_Holo
   metroPackageVersion: 
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\msftreactornyc\Documents\ArchEngine_RV2017\ArchEngine\ArchEngine_Holo\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00234c6ca95ed401
   metroApplicationDescription: ArchEngine_Holo
   wsaImages: {}
   metroTileShortName: 

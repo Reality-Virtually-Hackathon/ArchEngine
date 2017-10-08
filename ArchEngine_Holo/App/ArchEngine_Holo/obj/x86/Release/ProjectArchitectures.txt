@@ -1,0 +1,4 @@
+C:\Users\msftreactornyc\Documents\ArchEngine_RV2017\ArchEngine\ArchEngine_Holo\App\ArchEngine_Holo\ArchEngine_Holo.csproj;x86
+C:\Users\msftreactornyc\Documents\ArchEngine_RV2017\ArchEngine\ArchEngine_Holo\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\msftreactornyc\Documents\ArchEngine_RV2017\ArchEngine\ArchEngine_Holo\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\msftreactornyc\Documents\ArchEngine_RV2017\ArchEngine\ArchEngine_Holo\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
