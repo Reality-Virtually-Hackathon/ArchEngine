@@ -11,14 +11,14 @@ public class Visualizer : MonoBehaviour {
     bool animationFinished = false;
     public Scene nextScene;
 
-    public GameObject scaleObject;
     public GameObject ball;
+    public GameObject explodePoint;
 
     public GameObject building;
     private GameObject[] comps;
     private Color[] origColors;
     public GameObject zoomie;
-
+    public GameObject temporary;
     private List<GameObject> positions = new List<GameObject>();
     private List<GameObject> boxes = new List<GameObject>();
     private List<float> scales = new List<float>();
@@ -46,6 +46,14 @@ public class Visualizer : MonoBehaviour {
     // when  you press teh bue buttons, it hides everything that isnt blue, when you press the red it hides everything that isnt red, when you press green it hides evertyhing that wasnt green
     void Update () {
 
+   
+
+        if (Input.GetKeyDown(KeyCode.Y)){
+            TopEnable(false);
+        }
+        if (Input.GetKeyDown(KeyCode.H)){
+            TopEnable(true);
+        }
         if (Input.GetKeyDown(KeyCode.B))
         {
             RestoreColors();
@@ -136,22 +144,38 @@ public class Visualizer : MonoBehaviour {
         }
         g.transform.parent = null;
     }
+    private void Explosion()
+    {
+
+    }
     private void FadeoutEverythingOtherThan(string colorTag)
     {
+        print(temporary.tag);
         foreach (GameObject g in comps)
         {
-            if (g.tag != colorTag)
+            if (g.tag != colorTag || g.tag == "Untagged")
             {
                 StartCoroutine(FadeOut(g));
             }
         }
     }
+    private void TopEnable(bool show)
+    {
+        foreach (GameObject g in comps)
+        {
+            if (g.tag == "top")
+            {
+                g.GetComponent<Renderer>().enabled = show;
+            }
+        }
+    }
+    
     IEnumerator FadeOut(GameObject g)
     {
 
-        if(g.GetComponent<Renderer>().material.color != null)
+        if(g.GetComponent<Renderer>() != null)
         {
-            for (float f = 1f; f >= .33; f -= 0.01f)
+            for (float f = 1f; f >= .05; f -= 0.01f)
             {
 
                 //print("called " + f);
@@ -166,7 +190,7 @@ public class Visualizer : MonoBehaviour {
     IEnumerator FadeIn(GameObject g)
     {
 
-        if (g.GetComponent<Renderer>().material.color != null)
+        if (g.GetComponent<Renderer>() != null)
         {
 
             for (float f = .33f; f <= 1f; f += 0.01f)

@@ -8,6 +8,8 @@ TagManager:
   - red
   - blue
   - yellow
+  - default
+  - top
   layers:
   - Default
   - TransparentFX
