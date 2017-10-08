@@ -19,6 +19,9 @@ public class Visualizer : MonoBehaviour {
     private Color[] origColors;
     public GameObject zoomie;
     public GameObject temporary;
+
+    public Material setall;
+
     private List<GameObject> positions = new List<GameObject>();
     private List<GameObject> boxes = new List<GameObject>();
     private List<float> scales = new List<float>();
@@ -39,14 +42,31 @@ public class Visualizer : MonoBehaviour {
             }
             catch { };
         }
+        foreach (GameObject dink in comps)
+        {
+            if(dink.tag == "default" || dink.tag == "Untagged")
+            {
+                dink.GetComponent<Renderer>().material = setall;
+            }
+        }
         
     }
     
     // Update is called once per frame
     // when  you press teh bue buttons, it hides everything that isnt blue, when you press the red it hides everything that isnt red, when you press green it hides evertyhing that wasnt green
     void Update () {
+        if (Input.GetMouseButtonDown(0))
+        {
+            Debug.Log("click");
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+            RaycastHit hit = new RaycastHit();
+            if (Physics.Raycast(ray, out hit, Mathf.Infinity))
+            {
+                Debug.Log("You clicked on " + hit.collider.gameObject.name, hit.collider.gameObject);
+            }
+        }
 
-   
+
 
         if (Input.GetKeyDown(KeyCode.Y)){
             TopEnable(false);
@@ -209,7 +229,26 @@ public class Visualizer : MonoBehaviour {
     {
         Application.LoadLevel("staircase");
     }
+    /*
+    Vector3 offset;
+    bool deag = false;
+    void OnMouseDown()
+    {
 
+        Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+        RaycastHit hit = new RaycastHit();
+        if (Physics.Raycast(ray, out hit, Mathf.Infinity))
+        {
+            offset = gameObject.transform.position - hit.point;
+
+        }
+        
+    }
+    void OnMouseUp()
+    {
+
+    }
+    */
 }
 
 
