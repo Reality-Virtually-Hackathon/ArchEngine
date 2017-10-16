@@ -1,0 +1,380 @@
+fileFormatVersion: 2
+guid: cd1a21d9ce01ea148b6b847cd30fe2ba
+timeCreated: 1507406343
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: '3D View: {3D - User}'
+    100002: Cast-In-Place Stair Stair [5939041]
+    100004: Floor Concrete Slab - 6" [5924080]
+    100006: Railing Single Bar Hand Rail -Glass [5939928]
+    100008: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    100010: Railing Single Bar Hand Rail -Glass [5939928]_[5366990] 1
+    100012: Railing Single Bar Hand Rail -Glass [5939928]_[5939962]
+    100014: Railing Single Bar Hand Rail -Glass [5939928]_[5939964]
+    100016: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    100018: Railing Single Bar Hand Rail -Glass [5939928]_[5939966] 1
+    100020: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    100022: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    100024: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 2
+    100026: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 3
+    100028: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 4
+    100030: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    100032: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 1
+    100034: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 2
+    100036: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    100038: Railing Single Bar Hand Rail -Glass [5939928]_[5939973] 1
+    100040: Railing Single Bar Hand Rail -Glass [5939932]
+    100042: Railing Single Bar Hand Rail -Glass [5939932]_[5366988]
+    100044: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 1
+    100046: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 2
+    100048: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 3
+    100050: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 4
+    100052: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 5
+    100054: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 6
+    100056: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 7
+    100058: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 8
+    100060: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 9
+    100062: Railing Single Bar Hand Rail -Glass [5939932]_[5366990]
+    100064: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 1
+    100066: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 2
+    100068: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 3
+    100070: Railing Single Bar Hand Rail -Glass [5939932]_[5939962]
+    100072: Railing Single Bar Hand Rail -Glass [5939932]_[5939964]
+    100074: Railing Single Bar Hand Rail -Glass [5939932]_[5939966]
+    100076: Railing Single Bar Hand Rail -Glass [5939932]_[5939966] 1
+    100078: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    100080: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 1
+    100082: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 2
+    100084: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 3
+    100086: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 4
+    100088: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    100090: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 1
+    100092: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 2
+    100094: Railing Single Bar Hand Rail -Glass [5939932]_[5939973]
+    100096: Railing Single Bar Hand Rail -Glass [5939932]_[5939973] 1
+    100098: //RootNode
+    100100: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941415]
+    100102: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941730]
+    100104: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    100106: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941764]
+    100108: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    100110: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941783]
+    100112: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941963]
+    100114: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941965]
+    100116: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    100118: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942403]
+    100120: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943016]
+    100122: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943765]
+    100124: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    100126: W-Wide Flange_Fireproofing_HOK_I W12X35 [5944303]
+    400000: '3D View: {3D - User}'
+    400002: Cast-In-Place Stair Stair [5939041]
+    400004: Floor Concrete Slab - 6" [5924080]
+    400006: Railing Single Bar Hand Rail -Glass [5939928]
+    400008: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    400010: Railing Single Bar Hand Rail -Glass [5939928]_[5366990] 1
+    400012: Railing Single Bar Hand Rail -Glass [5939928]_[5939962]
+    400014: Railing Single Bar Hand Rail -Glass [5939928]_[5939964]
+    400016: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    400018: Railing Single Bar Hand Rail -Glass [5939928]_[5939966] 1
+    400020: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    400022: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    400024: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 2
+    400026: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 3
+    400028: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 4
+    400030: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    400032: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 1
+    400034: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 2
+    400036: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    400038: Railing Single Bar Hand Rail -Glass [5939928]_[5939973] 1
+    400040: Railing Single Bar Hand Rail -Glass [5939932]
+    400042: Railing Single Bar Hand Rail -Glass [5939932]_[5366988]
+    400044: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 1
+    400046: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 2
+    400048: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 3
+    400050: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 4
+    400052: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 5
+    400054: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 6
+    400056: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 7
+    400058: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 8
+    400060: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 9
+    400062: Railing Single Bar Hand Rail -Glass [5939932]_[5366990]
+    400064: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 1
+    400066: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 2
+    400068: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 3
+    400070: Railing Single Bar Hand Rail -Glass [5939932]_[5939962]
+    400072: Railing Single Bar Hand Rail -Glass [5939932]_[5939964]
+    400074: Railing Single Bar Hand Rail -Glass [5939932]_[5939966]
+    400076: Railing Single Bar Hand Rail -Glass [5939932]_[5939966] 1
+    400078: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    400080: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 1
+    400082: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 2
+    400084: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 3
+    400086: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 4
+    400088: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    400090: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 1
+    400092: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 2
+    400094: Railing Single Bar Hand Rail -Glass [5939932]_[5939973]
+    400096: Railing Single Bar Hand Rail -Glass [5939932]_[5939973] 1
+    400098: //RootNode
+    400100: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941415]
+    400102: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941730]
+    400104: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    400106: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941764]
+    400108: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    400110: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941783]
+    400112: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941963]
+    400114: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941965]
+    400116: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    400118: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942403]
+    400120: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943016]
+    400122: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943765]
+    400124: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    400126: W-Wide Flange_Fireproofing_HOK_I W12X35 [5944303]
+    2000000: '3D View: {3D - User}'
+    2300000: Cast-In-Place Stair Stair [5939041]
+    2300002: Floor Concrete Slab - 6" [5924080]
+    2300004: Railing Single Bar Hand Rail -Glass [5939928]
+    2300006: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    2300008: Railing Single Bar Hand Rail -Glass [5939928]_[5366990] 1
+    2300010: Railing Single Bar Hand Rail -Glass [5939928]_[5939962]
+    2300012: Railing Single Bar Hand Rail -Glass [5939928]_[5939964]
+    2300014: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    2300016: Railing Single Bar Hand Rail -Glass [5939928]_[5939966] 1
+    2300018: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    2300020: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    2300022: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 2
+    2300024: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 3
+    2300026: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 4
+    2300028: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    2300030: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 1
+    2300032: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 2
+    2300034: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    2300036: Railing Single Bar Hand Rail -Glass [5939928]_[5939973] 1
+    2300038: Railing Single Bar Hand Rail -Glass [5939932]
+    2300040: Railing Single Bar Hand Rail -Glass [5939932]_[5366988]
+    2300042: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 1
+    2300044: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 2
+    2300046: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 3
+    2300048: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 4
+    2300050: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 5
+    2300052: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 6
+    2300054: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 7
+    2300056: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 8
+    2300058: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 9
+    2300060: Railing Single Bar Hand Rail -Glass [5939932]_[5366990]
+    2300062: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 1
+    2300064: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 2
+    2300066: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 3
+    2300068: Railing Single Bar Hand Rail -Glass [5939932]_[5939962]
+    2300070: Railing Single Bar Hand Rail -Glass [5939932]_[5939964]
+    2300072: Railing Single Bar Hand Rail -Glass [5939932]_[5939966]
+    2300074: Railing Single Bar Hand Rail -Glass [5939932]_[5939966] 1
+    2300076: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    2300078: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 1
+    2300080: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 2
+    2300082: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 3
+    2300084: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 4
+    2300086: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    2300088: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 1
+    2300090: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 2
+    2300092: Railing Single Bar Hand Rail -Glass [5939932]_[5939973]
+    2300094: Railing Single Bar Hand Rail -Glass [5939932]_[5939973] 1
+    2300096: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941415]
+    2300098: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941730]
+    2300100: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    2300102: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941764]
+    2300104: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    2300106: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941783]
+    2300108: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941963]
+    2300110: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941965]
+    2300112: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    2300114: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942403]
+    2300116: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943016]
+    2300118: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943765]
+    2300120: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    2300122: W-Wide Flange_Fireproofing_HOK_I W12X35 [5944303]
+    3300000: Cast-In-Place Stair Stair [5939041]
+    3300002: Floor Concrete Slab - 6" [5924080]
+    3300004: Railing Single Bar Hand Rail -Glass [5939928]
+    3300006: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    3300008: Railing Single Bar Hand Rail -Glass [5939928]_[5366990] 1
+    3300010: Railing Single Bar Hand Rail -Glass [5939928]_[5939962]
+    3300012: Railing Single Bar Hand Rail -Glass [5939928]_[5939964]
+    3300014: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    3300016: Railing Single Bar Hand Rail -Glass [5939928]_[5939966] 1
+    3300018: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    3300020: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 1
+    3300022: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 2
+    3300024: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 3
+    3300026: Railing Single Bar Hand Rail -Glass [5939928]_[5939969] 4
+    3300028: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    3300030: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 1
+    3300032: Railing Single Bar Hand Rail -Glass [5939928]_[5939971] 2
+    3300034: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    3300036: Railing Single Bar Hand Rail -Glass [5939928]_[5939973] 1
+    3300038: Railing Single Bar Hand Rail -Glass [5939932]
+    3300040: Railing Single Bar Hand Rail -Glass [5939932]_[5366988]
+    3300042: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 1
+    3300044: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 2
+    3300046: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 3
+    3300048: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 4
+    3300050: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 5
+    3300052: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 6
+    3300054: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 7
+    3300056: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 8
+    3300058: Railing Single Bar Hand Rail -Glass [5939932]_[5366988] 9
+    3300060: Railing Single Bar Hand Rail -Glass [5939932]_[5366990]
+    3300062: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 1
+    3300064: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 2
+    3300066: Railing Single Bar Hand Rail -Glass [5939932]_[5366990] 3
+    3300068: Railing Single Bar Hand Rail -Glass [5939932]_[5939962]
+    3300070: Railing Single Bar Hand Rail -Glass [5939932]_[5939964]
+    3300072: Railing Single Bar Hand Rail -Glass [5939932]_[5939966]
+    3300074: Railing Single Bar Hand Rail -Glass [5939932]_[5939966] 1
+    3300076: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    3300078: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 1
+    3300080: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 2
+    3300082: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 3
+    3300084: Railing Single Bar Hand Rail -Glass [5939932]_[5939969] 4
+    3300086: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    3300088: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 1
+    3300090: Railing Single Bar Hand Rail -Glass [5939932]_[5939971] 2
+    3300092: Railing Single Bar Hand Rail -Glass [5939932]_[5939973]
+    3300094: Railing Single Bar Hand Rail -Glass [5939932]_[5939973] 1
+    3300096: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941415]
+    3300098: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941730]
+    3300100: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    3300102: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941764]
+    3300104: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    3300106: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941783]
+    3300108: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941963]
+    3300110: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941965]
+    3300112: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    3300114: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942403]
+    3300116: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943016]
+    3300118: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943765]
+    3300120: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+    3300122: W-Wide Flange_Fireproofing_HOK_I W12X35 [5944303]
+    4300000: Floor Concrete Slab - 6" [5924080]
+    4300002: Cast-In-Place Stair Stair [5939041]
+    4300004: Railing Single Bar Hand Rail -Glass [5939928]
+    4300006: Railing Single Bar Hand Rail -Glass [5939928]_[5939962]
+    4300008: Railing Single Bar Hand Rail -Glass [5939928]_[5939964]
+    4300010: Railing Single Bar Hand Rail -Glass [5939928]_[5939966]
+    4300012: Railing Single Bar Hand Rail -Glass [5939928]_[5366990]
+    4300014: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300016: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300018: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    4300020: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    4300022: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300024: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    4300026: Railing Single Bar Hand Rail -Glass [5939928]_[5939973]
+    4300028: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300030: Railing Single Bar Hand Rail -Glass [5939928]_[5939969]
+    4300032: Railing Single Bar Hand Rail -Glass [5939928]_[5939971]
+    4300034: Railing Single Bar Hand Rail -Glass [5939932]
+    4300036: Railing Single Bar Hand Rail -Glass [5939932]_[5939962]
+    4300038: Railing Single Bar Hand Rail -Glass [5939932]_[5939964]
+    4300040: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    4300042: Railing Single Bar Hand Rail -Glass [5939932]_[5366988]
+    4300044: Railing Single Bar Hand Rail -Glass [5939932]_[5366988]
+    4300046: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    4300048: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    4300050: Railing Single Bar Hand Rail -Glass [5939932]_[5939973]
+    4300052: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    4300054: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    4300056: Railing Single Bar Hand Rail -Glass [5939932]_[5939973]
+    4300058: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    4300060: Railing Single Bar Hand Rail -Glass [5939932]_[5939969]
+    4300062: Railing Single Bar Hand Rail -Glass [5939932]_[5939971]
+    4300064: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941415]
+    4300066: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941730]
+    4300068: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941762]
+    4300070: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941764]
+    4300072: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941781]
+    4300074: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941783]
+    4300076: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941963]
+    4300078: W-Wide Flange_Fireproofing_HOK_I W12X35 [5941965]
+    4300080: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942012]
+    4300082: W-Wide Flange_Fireproofing_HOK_I W12X35 [5942403]
+    4300084: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943016]
+    4300086: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943765]
+    4300088: W-Wide Flange_Fireproofing_HOK_I W12X35 [5943984]
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

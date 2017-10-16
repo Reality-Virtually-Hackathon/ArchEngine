@@ -1,0 +1,7 @@
+
+# backtrace
+0   blender                             0x000000010011b784 blender_crash_handler_backtrace + 70
+1   blender                             0x000000010011b9c2 blender_crash_handler + 451
+2   libsystem_platform.dylib            0x00007fff600d4f5a _sigtramp + 26
+3   ???                                 0x0000000000000000 0x0 + 0
+4   blender                             0x0000000100441f43 fsmenu_read_system + 691
